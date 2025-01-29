@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\logicadeprogramacao\\logica05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365CA830-549B-435E-83AB-FDF6C3D91E77}|logica05.csproj|c:\\users\\jose.ehmendes\\onedrive - senac - sp\\documentos\\visual studio 2022\\logicadeprogramacao\\logica05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365CA830-549B-435E-83AB-FDF6C3D91E77}|logica05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\logicadeprogramacao\\logica05\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\logicadeprogramacao\\logica05\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:53:05.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
