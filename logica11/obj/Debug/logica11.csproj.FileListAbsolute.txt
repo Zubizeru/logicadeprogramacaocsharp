@@ -1,0 +1,7 @@
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\logicadeprogramacao\logica11\bin\Debug\logica11.exe.config
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\logicadeprogramacao\logica11\bin\Debug\logica11.exe
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\logicadeprogramacao\logica11\bin\Debug\logica11.pdb
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\logicadeprogramacao\logica11\obj\Debug\logica11.csproj.AssemblyReference.cache
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\logicadeprogramacao\logica11\obj\Debug\logica11.csproj.CoreCompileInputs.cache
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\logicadeprogramacao\logica11\obj\Debug\logica11.exe
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\logicadeprogramacao\logica11\obj\Debug\logica11.pdb
